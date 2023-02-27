@@ -1,0 +1,6 @@
+train: /content/datasets/data/images/train
+val: /content/datasets/data/images/val 
+test: /content/datasets/data/images/test
+
+nc: 2
+names : ['racoon'] 
